@@ -1,0 +1,227 @@
+.main-center-div {
+  max-width: 416px;
+  margin: auto;
+  text-align: center;
+  padding: 20px 0;
+}
+.top-border-div {
+  float: left;
+  width: 100%;
+  border: 1px solid #e8e8ea;
+  border-radius: 5px;
+  box-shadow: 0 2px 19px #e8e8e8;
+}
+.login-from-area {
+  text-align: left;
+  padding: 20px 20px 12px 20px;
+}
+
+.login-from-area h2 {
+  font-size: 24px;
+  font-weight: 500;
+  color: #000;
+  margin-bottom: 20px;
+  line-height: 23px;
+}
+
+.login-type {
+  width: 100%;
+  float: left;
+  border: 1px solid #ced3d5;
+  height: 50px;
+  border-radius: 4px;
+  padding: 5px 15px;
+  font-size: 16px;
+  color: #000;
+  margin-bottom: 15px;
+}
+
+.login-submit {
+  width: 100%;
+  text-align: center;
+  background: #f02f34;
+  border: none;
+  color: #fff;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 4px;
+  height: 46px;
+}
+.login-submit:hover {
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
+
+.or-area {
+  border-bottom: 1px solid #e2e2e2;
+  position: relative;
+  margin: 0 0 16px 0;
+  text-align: center;
+}
+
+.or-area span {
+  color: #717171;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 2px 10px;
+  background: #fff;
+  position: relative;
+  bottom: -11px;
+}
+
+.login-socials-area {
+  padding: 15px 20px 0px 20px;
+  text-align: center;
+}
+
+.common-btns {
+  float: left;
+  width: 48%;
+  margin-right: 4%;
+  border-radius: 4px;
+  padding: 10px 5px;
+  text-align: center;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.common-btns img {
+  margin-right: 5px;
+}
+
+.facebook-btn {
+  background: #3c5a99;
+  color: #fff;
+  border: 1px solid #3c5a99;
+}
+
+.facebook-btn:hover {
+  color: #fff;
+  background: #4d6cae;
+  border: 1px solid #2c66e0;
+}
+.google-btn {
+  border: 1px solid #ced3d5;
+  color: #333;
+  margin-right: 0px;
+}
+.google-btn:hover {
+  background: #f7f7f7;
+  color: #333;
+  border: 1px solid #f96f72;
+}
+.socials-btns {
+  display: inline-block;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.login-socials-area p a {
+  color: #000;
+  text-decoration: underline;
+}
+
+.login-socials-area p a:hover {
+  color: #fe8324;
+}
+
+.bottom-account-div {
+  padding-top: 15px;
+  display: inline-block;
+}
+
+.bottom-account-div p {
+  color: #2a2a2f;
+  font-size: 15px;
+  font-weight: 400;
+  margin: 0px;
+  line-height: 23px;
+}
+
+.bottom-account-div p a {
+  color: #000;
+}
+
+.bottom-account-div p a:hover {
+  color: #f02f34;
+}
+
+.remmber-area {
+  display: inline-block;
+  width: 100%;
+  margin: 2px 0 4px 0;
+}
+.login-from-area p {
+  color: #888484;
+  font-size: 13px;
+  font-weight: 400;
+  margin: 0 0 18px 0 !important;
+  line-height: 19px;
+}
+.remmber-area .list_checkBox {
+  display: inline-block;
+  margin-bottom: 15px;
+  padding-left: 23px;
+}
+
+.forgot-passwords {
+  color: #000;
+  font-size: 15px;
+  font-weight: 400;
+  float: right;
+}
+
+.forgot-passwords:hover {
+  color: #f02f34;
+}
+
+.signup-page .remmber-area {
+  margin: 2px 0 13px 0;
+}
+.field-icon {
+  position: absolute;
+  z-index: 2;
+  right: 16px;
+  bottom: 32px;
+  color: #707b7d;
+}
+.password-in {
+  position: relative;
+}
+.login-bodys {
+  text-align: center;
+}
+.login-socials-area p a {
+  color: #000;
+  text-decoration: underline;
+}
+.login-socials-area p a:hover {
+  color: #f02f34;
+}
+.remmber-area .list_checkBox {
+  padding-left: 0px;
+}
+.remmber-area .list_checkBox input[type="checkbox"] {
+  float: left;
+  margin: 2px 10px 0 0;
+}
+.login-from-area p a {
+  color: #000;
+  text-decoration: underline;
+}
+.login-from-area p a:hover {
+  color: #f02f34;
+}
+.login-type:hover {
+  border: 1px solid #f02f34;
+}
+.login-type:focus {
+  border: 1px solid #f02f34;
+}
+.login-type:hover {
+  border: 1px solid #f02f34;
+}
+.login-type:focus {
+  border: 1px solid #f02f34;
+}

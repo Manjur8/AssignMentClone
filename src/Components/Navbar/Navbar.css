@@ -43,7 +43,9 @@ ul li a {
   padding-top: 9.2px;
   padding-bottom: 6.8px;
 }
-
+.nav_btn .btn {
+  color: #fff;
+}
 .navItem_dropDown {
   font-size: 15px;
   text-decoration: none;
@@ -97,7 +99,7 @@ ul li a {
     width: 90%;
     height: auto;
   }
-  .nav_btn {
+  .nav_btn .btn {
     font-size: small;
     padding: 2px 10px;
   }
